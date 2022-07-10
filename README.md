@@ -26,7 +26,7 @@
 ![Vivews](https://komarev.com/ghpvc/?username=talxa&color=red&for-the-badge)
 
 ### Follow me
-![Instagram](https://img.shields.io/badge/-Instagram-090909?style=flat&logo=Instagram&link=http://left&link=https://instagram.com/davlatovv.z?igshid=YmMyMTA2M2Y=)
-![Telegram](https://img.shields.io/badge/-Telegram-white?style=flat&logo=Telegram&link=http://left&link=https://t.me/davlatovv_z)
-![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=flat&logo=Linkedin&link=http://left&link=www.linkedin.com/in/davlatov-z)
-![Discord](https://img.shields.io/badge/-Discord-white?style=flat&logo=Discord&link=http://left&link=https://discord.com/users/962229201614819359)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=flat&logo=Instagram)](https://instagram.com/davlatovv.z?igshid=YmMyMTA2M2Y=)
+[![Telegram](https://img.shields.io/badge/-Telegram-white?style=flat&logo=Telegram)](https://t.me/davlatovv_z)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=flat&logo=Linkedin)](www.linkedin.com/in/davlatov-z)
+[![Discord](https://img.shields.io/badge/-Discord-white?style=flat&logo=Discord)](https://discord.com/users/962229201614819359)
