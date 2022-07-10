@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/talxa/talxa/blob/main/assets/9p8j5n1nxuh71.jpg)
 ## I'm Data scientist and student in Astrum academy
 #
 
